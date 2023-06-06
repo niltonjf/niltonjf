@@ -1,8 +1,6 @@
 ### Boas vindas ao meu perfil 🛸
 
 
-**niltonjf/niltonjf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - Meu nome é Nilton Farias
 
 - Estou estudando na [Alura](https://alura.com.br)
